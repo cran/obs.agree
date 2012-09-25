@@ -1,0 +1,11 @@
+a3c943b83229cdced704425e926c2a7c *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+296964c75ed13cc011d1f90d604e4b32 *R/IBMD.R
+f785e7a23549cbfa5112785fc38332be *R/RAI.R
+359e2264d7928177091d391f7abdb9a0 *data/ctg.rda
+97d58a5b5a19c0f025aabeb941b60d07 *data/gymnasts.rda
+43ad509575b0401cf82a300de23649d7 *man/IBMD.Rd
+bd3a0c79f2b2c64dcf05df670508b5a7 *man/RAI.Rd
+204e6c9feee001e129c1b70c6c8215f4 *man/ctg.Rd
+bf1c6993ccca9b3c1786e663c3017a2e *man/gymnasts.Rd
+49a72f1282c23f249c04a4ceee5e7d99 *man/obs.agree-package.Rd
